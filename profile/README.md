@@ -1,4 +1,4 @@
-# ⚡️ 2025년 STDev_Hackathon
+# ⚡️ STDev_Hackathon
 
 ### 주제 :  '호기심을 풀어내는 과학 관련 서비스'
 
