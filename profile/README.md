@@ -32,6 +32,7 @@ Nupeplo는 ‘New Perspective Planet Orbit’의 축약형으로, **새로운 �
 
 ### 🔹 Backend
 - Java, Spring, Spring Boot
+- MongoDB, MariaDB
 - Docker, AWS, GitHub Actions
 
 </br>
